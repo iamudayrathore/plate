@@ -30,4 +30,4 @@ _Last changed by Uday: 2026-11-03_
 **Thaw rule:** something leaves the Freezer only when an active lane item ships or is deliberately killed. One in, one out.
 
 ## Parking Lot (new ideas land here, reviewed on Sundays)
--
+- Body weekly target "4 workouts": 0 logged in 3 weeks, must-do frozen 2026-11-23 after its third carry. Uday decides: keep 4 or cut to 2. (model suggestion, added 2026-11-24)
